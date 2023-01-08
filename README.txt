@@ -1,4 +1,4 @@
-El TFM se basa en la arquitectura de un sistema de prevención de la violencia de género en España.
+Trabajo de fin de máster donde se presenta la arquitectura de un sistema de prevención de la violencia de género en España.
 
 Dicha arquitectura se fundamenta en el análisis de un conjunto de datos existente, en la creación de perfiles/modelos de víctimas y agresores y en aportar a ese perfil de agresores datos sobre la presencia de comentarios sexistas en sus perfiles en redes sociales. 
 
